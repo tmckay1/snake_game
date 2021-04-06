@@ -16,7 +16,7 @@ CRGB leds[NUM_LEDS];
 
 //Joystick
 #define PAUSE_PIN 50
-const int xPin        = A6;           // First  input to read from 8 multiplexers
+const int xPin        = A6;
 const int yPin        = A7;
 
 // Directions
